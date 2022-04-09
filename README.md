@@ -23,6 +23,9 @@ DEMO
 =======================
 - Classification Training
 
+https://user-images.githubusercontent.com/42884297/162553818-eaeb209f-0cde-43d7-933a-e475a8a5f5d1.mp4
+
+
 
 
 - Classification Auto Labeling
