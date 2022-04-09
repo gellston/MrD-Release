@@ -1,6 +1,8 @@
+<center>
+<img src="https://github.com/gellston/MrD-Release/blob/main/Images/MrDLogo.png?raw=true" width=200></img> 
+</center>
 
-<img src="https://github.com/gellston/MrD-Release/blob/main/Images/MrDLogoMini.png?raw=true" 
-style="object-fit: none; object-position:0px 0; width: 80px; height: 80px"></img> MrD
+MrD
 =======================
 
 MrD is a free image labeling and training tool developed in C# WPF based on Visual Studio 2022 <br/>
