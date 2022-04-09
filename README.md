@@ -20,7 +20,7 @@ Development Environment
 Download
 =======================
 
-- <a href="https://github.com/gellston/MrD-Release/releases/download/0.5/MrD.exe" target="_blank">MrD download</a>
+- <a href="https://github.com/gellston/MrD-Release/releases" target="_blank">MrD download</a>
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.2-windows-x64-installer" target="_blank">.NET6 framework</a>
 - <a href="https://developer.nvidia.com/cuda-11.3.0-download-archive" target="_blank">CUDA 11.3 for GPU Training</a>
 
