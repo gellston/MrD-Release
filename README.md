@@ -18,6 +18,9 @@ Download
 
 - <a href="https://github.com/gellston/FIAT-Release/releases/download/0.6/FIAT.exe" target="_blank">FIAT Labeling tool download</a>
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.2-windows-x64-installer" target="_blank">.NET6 framework</a>
+- <a href="https://developer.nvidia.com/cuda-11.3.0-download-archive" target="_blank">CUDA 11.3 for GPU Training</a>
+
+
 
 DEMO
 =======================
