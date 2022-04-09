@@ -1,9 +1,10 @@
-<img src="https://github.com/gellston/FIAT-Release/blob/main/snapshoot/icons8_price_tag_96px.png?raw=true" width=40 height=40></img>
-MrD
+
+<img src="https://github.com/gellston/MrD-Release/blob/main/Images/MrDLogoMini.png?raw=true" 
+style="object-fit: none; object-position:0px 0; width: 80px; height: 80px"></img> MrD
 =======================
 
-FIAT is a free image labeling tool developed in C# WPF based on Visual Studio 2022 <br/>
-The current version supports labeling classification datasets and provides a PyTorch dataset loader.
+MrD is a free image labeling and training tool developed in C# WPF based on Visual Studio 2022 <br/>
+The current version supports labeling classification datasets and training, auto labeling.
 
 Development Environment
 =======================
@@ -18,6 +19,10 @@ Download
 
 DEMO
 =======================
+- Classification Training
+<center>
+<img src="https://github.com/gellston/FIAT-Release/blob/main/snapshoot/FIAT-example.gif?raw=true"></img>
+</center>
 - Classification Training
 <center>
 <img src="https://github.com/gellston/FIAT-Release/blob/main/snapshoot/FIAT-example.gif?raw=true"></img>
