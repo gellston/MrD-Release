@@ -20,13 +20,11 @@ Download
 DEMO
 =======================
 - Classification Training
-https://github.com/gellston/MrD-Release/blob/main/Images/classification_training.mp4
+
 
 
 - Classification Auto Labeling
-<center>
-<img src="https://github.com/gellston/FIAT-Release/blob/main/snapshoot/FIAT-example.gif?raw=true"></img>
-</center>
+
 
 
 Shortcut Key
