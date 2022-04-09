@@ -8,6 +8,10 @@ MrD
 MrD is a free image labeling and training tool developed in C# WPF based on Visual Studio 2022 <br/>
 The current version supports labeling classification datasets and training, auto labeling.
 
+MrD WIKI
+=======================
+https://MrDTeam.com
+
 Development Environment
 =======================
  - **Visual Studio 2022**
@@ -16,7 +20,7 @@ Development Environment
 Download
 =======================
 
-- <a href="https://github.com/gellston/FIAT-Release/releases/download/0.6/FIAT.exe" target="_blank">FIAT Labeling tool download</a>
+- <a href="https://github.com/gellston/MrD-Release/releases/download/0.5/MrD.exe" target="_blank">MrD download</a>
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.2-windows-x64-installer" target="_blank">.NET6 framework</a>
 - <a href="https://developer.nvidia.com/cuda-11.3.0-download-archive" target="_blank">CUDA 11.3 for GPU Training</a>
 
