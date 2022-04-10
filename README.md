@@ -1,3 +1,5 @@
+
+
 <center>
 <img src="https://github.com/gellston/MrD-Release/blob/main/Images/MrDLogo.png?raw=true" width=200></img> 
 </center>
@@ -110,6 +112,9 @@ Strcture
 
 </div>
 
+License
+=======================
+
 ```
 The MIT License (MIT)
 
@@ -133,6 +138,18 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+<div style="text-align: right; margin-right:30px;"> 
+
+[TOP](#vision-studio) 
+
+</div>
+
+Poster
+=======================
+<center>
+<img src="https://github.com/gellston/MrD-Release/blob/main/Images/poster.gif?raw=true"></img> 
+</center>
+
 <div style="text-align: right; margin-right:30px;"> 
 
 [TOP](#vision-studio) 
