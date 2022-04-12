@@ -1,18 +1,21 @@
-
-
 <center>
 <img src="https://github.com/gellston/MrD-Release/blob/main/Images/MrDLogo.png?raw=true" width=200></img> 
 </center>
 
+
 MrD
 =======================
-
 MrD is a free image labeling and training tool developed in C# WPF based on Visual Studio 2022 <br/>
 The current version supports labeling classification datasets and training, auto labeling.
 
 MrD WIKI
 =======================
 https://MrDTeam.com
+
+
+Donation
+=======================
+<a href="https://buymeacoffee.com/wantrnqhdgx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 Development Environment
 =======================
