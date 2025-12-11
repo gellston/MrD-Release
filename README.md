@@ -10,7 +10,7 @@ The current version supports labeling classification datasets and training, auto
 
 MrD WIKI
 =======================
-[https://MrDTeam.com](https://www.notion.so/gellston/Mr-D-WIKI-831813f65c0646838e224cb64f455f4f)
+[[https://MrDTeam.com](https://www.notion.so/gellston/Mr-D-WIKI-831813f65c0646838e224cb64f455f4f)](https://www.notion.so/gellston/Mr-D-WIKI-831813f65c0646838e224cb64f455f4f)
 
 
 Donation
